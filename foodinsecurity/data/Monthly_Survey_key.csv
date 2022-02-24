@@ -1,0 +1,329 @@
+Q_5123
+"No Response",-1
+Q_5124
+"Never true",1
+"Sometimes true",2
+"Often true",3
+"Don't know",4
+Q_5125
+"Never true",1
+"Sometimes true",2
+"Often true",3
+"Don't know",4
+Q_5126
+"Never true",1
+"Sometimes true",2
+"Often true",3
+"Don't know",4
+Q_5147
+"No Response",-1
+Q_5148
+No,1
+Yes,2
+Q_5149
+1,1
+30,30
+Q_5150
+No,1
+Yes,2
+Q_5151
+1,1
+30,30
+Q_5152
+No,1
+Yes,2
+Q_5153
+1,1
+30,30
+Q_5154
+No,1
+Yes,2
+Q_5155
+1,1
+30,30
+Q_5156
+No,1
+Yes,2
+Q_5157
+1,1
+30,30
+Q_5158
+"No Response",-1
+Q_5205
+"No Response",-1
+Q_5206
+"No Response",-1
+Q_5207
+"No Response",-1
+Q_5208
+Never,1
+Rarely,2
+Sometimes,3
+Usually,4
+Always,5
+Q_5209
+Never,1
+Rarely,2
+Sometimes,3
+Usually,4
+Always,5
+Q_5210
+Never,1
+Rarely,2
+Sometimes,3
+Usually,4
+Always,5
+Q_5211
+Never,1
+Rarely,2
+Sometimes,3
+Usually,4
+Always,5
+Q_5212
+Never,1
+Rarely,2
+Sometimes,3
+Usually,4
+Always,5
+Q_5213
+Never,1
+Rarely,2
+Sometimes,3
+Usually,4
+Always,5
+Q_5214
+0,0
+24,24
+0,0
+24,24
+Q_5215
+0,0
+24,24
+0,0
+24,24
+Q_5216
+0,0
+24,24
+0,0
+24,24
+Q_5217
+0,0
+24,24
+0,0
+24,24
+Q_5218
+0,0
+24,24
+0,0
+24,24
+Q_5219
+"No Response",-1
+Q_5220
+"No Response",-1
+Q_5221
+Yes,1
+No,2
+Q_5222
+Yes,1
+No,2
+Q_5223
+Yes,1
+No,2
+Q_5224
+Yes,1
+No,2
+Q_5225
+Yes,1
+No,2
+Q_5226
+Yes,1
+No,2
+Q_5227
+Yes,1
+No,2
+Q_5228
+Yes,1
+No,2
+Q_5229
+Yes,1
+No,2
+Q_5230
+Yes,1
+No,2
+Q_5231
+Yes,1
+No,2
+Q_5232
+Yes,1
+No,2
+Q_5233
+Yes,1
+No,2
+Q_5234
+Yes,1
+No,2
+Q_5235
+Yes,1
+No,2
+Q_5236
+"No Response",-1
+Q_5237
+"No Response",-1
+Q_5238
+0,0
+24,24
+0,0
+24,24
+Q_5239
+0,0
+24,24
+0,0
+24,24
+Q_5240
+0,0
+24,24
+0,0
+24,24
+Q_5241
+0,0
+24,24
+0,0
+24,24
+Q_5242
+0,0
+24,24
+0,0
+24,24
+Q_5266
+"Accept food from friends or family",1
+"Borrow money from friends and family",2
+"Buy different, cheaper foods",3
+"Buy food on credit",4
+"Buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)",5
+"Get food from a <b>food pantry</b> or <b>soup kitchen</b>",6
+"Sign up for or continue participation in a <b>government program</b>, such as SNAP, USDA’s monthly commodity supplemental food program",7
+"Sign up for or continue participation in a <b>senior food program</b>, such as senior food box program",8
+"Stretch the food that I have by eating less",9
+"None of the above",10
+Q_5267
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5268
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5269
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5270
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5271
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5272
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5273
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5274
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5275
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5276
+0,0
+24,24
+Q_5277
+0,0
+24,24
+Q_5278
+0,0
+24,24
+Q_5279
+0,0
+24,24
+Q_5280
+0,0
+24,24
+Q_5281
+0,0
+24,24
+Q_5282
+0,0
+24,24
+Q_5283
+0,0
+24,24
+Q_5284
+0,0
+24,24
+Q_5285
+0,0
+24,24
+Q_5287
+"Accept food from friends or family",1
+"Borrow money from friends and family",2
+"Buy different, cheaper foods",3
+"Buy food on credit",4
+"Buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)",5
+"Get food from a food pantry or soup kitchen",6
+"Sign up for or continue participation in a government program, such as SNAP, USDA’s monthly commodity supplemental food program",7
+"Sign up for or continue participation in a senior food program, such as senior food box program",8
+"Stretch the food that I have by eating less",9
+"None of the above",10
+Q_5288
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5289
+"Very unlikely",1
+Unlikely,2
+"Somewhat unlikely",3
+"Somewhat likely",4
+Likely,5
+"Very likely",6
+Q_5291
+"No Response",-1
+Q_5292
+"No Response",-1

@@ -1,0 +1,143 @@
+Q_5092
+"Very Bad",1
+"Very Good",10
+Q_5093
+"Very poor",0
+"Very good",10
+Q_5094
+"Very bad",1
+"Very good",10
+Q_5095
+"Not at all",1
+Extremely,10
+Q_5096
+Yes,1
+No,2
+Q_5097
+Yes,1
+No,2
+Q_5098
+0,0
+6+,6
+0,0
+6+,6
+0,0
+6+,6
+0,0
+6+,6
+Q_5099
+0,0
+12+,12
+Q_5100
+"We could afford to eat enough of the kinds of food we want to eat",1
+"We could afford to eat enough but not the kinds of we want to eat",2
+"We could not afford enough to eat",3
+Q_5101
+"I worried about my food running out",1
+"I did not eat balanced meals because there wasn't enough money for food",2
+"I cut the size of my meals or skipped meals because there wasn't enough money for food",3
+"I ate less than I felt I should because there wasn't enough money for food",4
+"I was hungry but didn't eat because there wasn't enough money for food",5
+"I did not eat for a whole day because there wasn't enough money for food",6
+"None of the above",7
+Q_5102
+"An upset stomach or nausea",1
+"Trouble sleeping",2
+Headache,3
+"Muscle tension/aches",4
+"Other pain",5
+"Acid indigestion or heartburn",6
+"Eye strain",7
+Diarrhea,8
+"Stomach cramps (not menstrual)",9
+Constipation,10
+"Ringing in the ears",11
+"Loss of appetite",12
+Dizziness,13
+"Tiredness or fatigue",14
+"None of the above",15
+Q_5103
+Yes,1
+No,2
+Q_5104
+"Not at all",1
+Extremely,10
+Q_5105
+"Negative social interaction",1
+"Being sick (you)",2
+"Physical injury (you)",3
+"Work related problem (you)",4
+"Financial problem (you or your household)",5
+"A problem of someone else in household",6
+"A terrible mistake you made",7
+"Heard bad or upsetting news",8
+"Time pressure/running late",9
+"Long trips (e.g., long flight, road trip)",10
+Other,11
+"None of the above",12
+Q_5106
+stressful_experience_other,-1
+Q_5107
+"No Response",-1
+Q_5108
+"Did not try to avoid stress",1
+"Tried very hard to avoid stress",10
+Q_5109
+"No Response",-1
+Q_5110
+"Very unpleasant",1
+"Very pleasant",10
+Q_5111
+"Not at all",1
+Extremely,10
+Q_5112
+"Not at all",1
+Extremely,10
+Q_5113
+"Not at all",1
+Extremely,10
+Q_5122
+"Very unpleasant",1
+"Very pleasant",10
+Q_5200
+"Very bad",1
+"Very good",10
+Q_5201
+0,0
+6+,6
+0,0
+6+,6
+0,0
+6+,6
+0,0
+6+,6
+Q_5202
+0,0
+12+,12
+Q_5203
+"We could afford to eat enough of the kinds of food we want to eat",1
+"We could afford to eat enough but not the kinds of food we want to eat",2
+"We could not afford enough to eat",3
+Q_5243
+"I worried about my food running out",1
+"I did not eat balanced meals because there wasn't enough money for food",2
+"I cut the size of my meals or skipped meals because there wasn't enough money for food",3
+"I ate less than I felt I should because there wasn't enough money for food",4
+"I was hungry but didn't eat because there wasn't enough money for food",5
+"I did not eat for a whole day because there wasn't enough money for food",6
+"None of the above",7
+Q_5286
+"No impact",1
+"Extreme impact",10
+Q_5298
+"Not at all",1
+Extremely,10
+Q_5307
+"No Response",-1
+Q_5447
+"No Response",-1
+Q_5448
+"No Response",-1
+Q_5469
+"Not at all",1
+Extremely,10

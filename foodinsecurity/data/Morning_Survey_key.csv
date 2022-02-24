@@ -1,0 +1,52 @@
+Q_4974
+0,0
+"24 hours",1440
+Q_4975
+0,0
+"24 hours",1440
+Q_4976
+"Not at all (fell asleep within 15 minutes)",1
+"Little (fell asleep in 16-30 minutes)",2
+"Somewhat (fell asleep in 31-60 minutes)",3
+"Very much (fell asleep in more than 60 minutes)",4
+Q_4977
+Poorest,1
+Best,10
+Q_4978
+"Waking up in the middle of the night or early morning",1
+"Getting up to use the bathroom",2
+"Not breathing comfortably",3
+"Coughing or snoring loudly (you)",4
+"Feeling too cold",5
+"Feeling too hot",6
+"Having bad dreams",7
+"Having pain due to hunger",8
+"Having other pain",9
+"Having other physical symptoms",10
+Light,11
+Noise,12
+"Your spouse/partner",13
+"Your child(ren)",14
+"Other (please specify)",15
+"None of the above",16
+Q_4979
+sleep_interference_oth,-1
+Q_4980
+Yes,1
+No,2
+Q_4981
+"Not at all enjoyable",1
+"A little bit enjoyable",2
+"Somewhat enjoyable",3
+"Very much enjoyable",4
+Q_4982
+"Not at all stressful",1
+"A little bit stressful",2
+"Somewhat stressful",3
+"Very much stressful",4
+Q_5306
+"No Response",-1
+Q_5445
+"No Response",-1
+Q_5446
+"No Response",-1
