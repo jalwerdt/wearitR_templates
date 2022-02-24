@@ -1,9 +1,10 @@
 {
-  "study_id": "catslife",
-  "study_groupcode": "1035",
-  "cogtasks": ["dotmemory", "symbolsearch", "shoppinglist", "stroop"],
-  "surveys": [["Beeped_Survey_1", "Beeped_Survey_2", "Beeped_Survey_3"], 
-              "Intake_Survey", 
-              "Waking_Survey", 
-              "Wrap_Up_Survey"]
+  "study_id": "foodinsecurity",
+  "study_groupcode": "1038",
+  "cogtasks": ["dotmemory", "symbolsearch", "GoNoGo"],
+  "surveys": [["Notified_Survey_1", "Notified_Survey_2", "Notified_Survey_3"],
+              "Morning_Survey", 
+              "Evening_Survey", 
+              "Monthly_Survey", 
+              "Intake_Survey"]
 }

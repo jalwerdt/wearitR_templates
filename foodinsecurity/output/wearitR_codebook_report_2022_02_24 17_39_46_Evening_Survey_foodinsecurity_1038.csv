@@ -1,0 +1,117 @@
+key,wearit_col_qnum,wearit_col_ques,wearit_col_label,filenames
+"Very Bad,1",Q_5092,How was your day?,deprecated,Evening_Survey
+"Very Good,10",Q_5092,How was your day?,deprecated,Evening_Survey
+"Very poor,0",Q_5093,Rate your OVERALL HEALTH <u>in the past 24 hours</u>.,overall_health,Evening_Survey
+"Very good,10",Q_5093,Rate your OVERALL HEALTH <u>in the past 24 hours</u>.,overall_health,Evening_Survey
+"Very bad,1",Q_5094,How is your OVERALL MOOD today?,overall_mood,Evening_Survey
+"Very good,10",Q_5094,How is your OVERALL MOOD today?,overall_mood,Evening_Survey
+"Not at all,1",Q_5095,How physically active was your day today?,physically_active,Evening_Survey
+"Extremely,10",Q_5095,How physically active was your day today?,physically_active,Evening_Survey
+"Yes,1",Q_5096,"Did you have trouble staying awake while driving, eating meals, or engaging in social activity during the day?",trouble_staying_awake,Evening_Survey
+"No,2",Q_5096,"Did you have trouble staying awake while driving, eating meals, or engaging in social activity during the day?",trouble_staying_awake,Evening_Survey
+"Yes,1",Q_5097,Did you have trouble to keep up enthusiasm to get things done during the day?,trouble_enthusiasm,Evening_Survey
+"No,2",Q_5097,Did you have trouble to keep up enthusiasm to get things done during the day?,trouble_enthusiasm,Evening_Survey
+"0,0",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"6+,6",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"0,0",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"6+,6",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"0,0",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"6+,6",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"0,0",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"6+,6",Q_5098,"For each of the beverages listed below, indicate the total amount you have had today. Use the unit <u>amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"0,0",Q_5099,"For the beverage listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"12+,12",Q_5099,"For the beverage listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",deprecated,Evening_Survey
+"We could afford to eat enough of the kinds of food we want to eat,1",Q_5100,Which statement best describe the food situation in your <i>HOUSEHOLD</i> <u>in the past 24 hours</u>?,deprecated,Evening_Survey
+"We could afford to eat enough but not the kinds of we want to eat,2",Q_5100,Which statement best describe the food situation in your <i>HOUSEHOLD</i> <u>in the past 24 hours</u>?,deprecated,Evening_Survey
+"We could not afford enough to eat,3",Q_5100,Which statement best describe the food situation in your <i>HOUSEHOLD</i> <u>in the past 24 hours</u>?,deprecated,Evening_Survey
+"I worried about my food running out,1",Q_5101,Did any of the following statement about food situation occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,deprecated,Evening_Survey
+"I did not eat balanced meals because there wasn't enough money for food,2",Q_5101,Did any of the following statement about food situation occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,deprecated,Evening_Survey
+"I cut the size of my meals or skipped meals because there wasn't enough money for food,3",Q_5101,Did any of the following statement about food situation occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,deprecated,Evening_Survey
+"I ate less than I felt I should because there wasn't enough money for food,4",Q_5101,Did any of the following statement about food situation occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,deprecated,Evening_Survey
+"I was hungry but didn't eat because there wasn't enough money for food,5",Q_5101,Did any of the following statement about food situation occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,deprecated,Evening_Survey
+"I did not eat for a whole day because there wasn't enough money for food,6",Q_5101,Did any of the following statement about food situation occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,deprecated,Evening_Survey
+"None of the above,7",Q_5101,Did any of the following statement about food situation occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,deprecated,Evening_Survey
+"An upset stomach or nausea,1",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Trouble sleeping,2",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Headache,3",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Muscle tension/aches,4",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Other pain,5",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Acid indigestion or heartburn,6",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Eye strain,7",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Diarrhea,8",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Stomach cramps (not menstrual),9",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Constipation,10",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Ringing in the ears,11",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Loss of appetite,12",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Dizziness,13",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Tiredness or fatigue,14",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"None of the above,15",Q_5102,Did any of the following SYMPTOMS happen <u>in the past 24 hours</u>? <i>Check all that apply.</i>,symptoms,Evening_Survey
+"Yes,1",Q_5103,Did you experience a stressful situation or problem <u>today</u>?,stressful_situation,Evening_Survey
+"No,2",Q_5103,Did you experience a stressful situation or problem <u>today</u>?,stressful_situation,Evening_Survey
+"Not at all,1",Q_5104,How much of an impact did the stress have on your day?,deprecated,Evening_Survey
+"Extremely,10",Q_5104,How much of an impact did the stress have on your day?,deprecated,Evening_Survey
+"Negative social interaction,1",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Being sick (you),2",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Physical injury (you),3",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Work related problem (you),4",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Financial problem (you or your household),5",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"A problem of someone else in household,6",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"A terrible mistake you made,7",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Heard bad or upsetting news,8",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Time pressure/running late,9",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Long trips (e.g., long flight, road trip),10",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"Other,11",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"None of the above,12",Q_5105,What stressful situation or problem(s) happened <u>today</u>? <i>Check all that apply.</i>,stress_today,Evening_Survey
+"stressful_experience_other,-1",Q_5106,What other stressful experience did you have <u>today</u>?,stress_today_other,Evening_Survey
+"No Response,-1",Q_5107,End Block,deprecated,Evening_Survey
+"Did not try to avoid stress,1",Q_5108,How much did you try to avoid stress <u>today</u>?,avoid_stress,Evening_Survey
+"Tried very hard to avoid stress,10",Q_5108,How much did you try to avoid stress <u>today</u>?,avoid_stress,Evening_Survey
+"No Response,-1",Q_5109,"In the next few questions, please think about your thoughts in the 5 minutes prior to starting this survey.",deprecated,Evening_Survey
+"Very unpleasant,1",Q_5110,Please rate the thoughts you had experienced in the 5 minutes prior to the start of this survey in terms of your overall mood?,deprecated,Evening_Survey
+"Very pleasant,10",Q_5110,Please rate the thoughts you had experienced in the 5 minutes prior to the start of this survey in terms of your overall mood?,deprecated,Evening_Survey
+"Not at all,1",Q_5111,"During the 5 minutes prior to the start this survey, were you thinking about personal problems or worries?",deprecated,Evening_Survey
+"Extremely,10",Q_5111,"During the 5 minutes prior to the start this survey, were you thinking about personal problems or worries?",deprecated,Evening_Survey
+"Not at all,1",Q_5112,"During the 5 minutes prior to the start of this survey, were you experiencing a train of thought that you couldn't get out of your head?",train_of_thought,Evening_Survey
+"Extremely,10",Q_5112,"During the 5 minutes prior to the start of this survey, were you experiencing a train of thought that you couldn't get out of your head?",train_of_thought,Evening_Survey
+"Not at all,1",Q_5113,"During the 5 minutes prior to the start of this survey, were you preoccupied with thoughts of something about to happen or that might happen in the future?",preoccupied,Evening_Survey
+"Extremely,10",Q_5113,"During the 5 minutes prior to the start of this survey, were you preoccupied with thoughts of something about to happen or that might happen in the future?",preoccupied,Evening_Survey
+"Very unpleasant,1",Q_5122,Please rate the thoughts you experienced in the 5 minutes prior to the start of this survey in terms of your overall mood?,overall_mood,Evening_Survey
+"Very pleasant,10",Q_5122,Please rate the thoughts you experienced in the 5 minutes prior to the start of this survey in terms of your overall mood?,overall_mood,Evening_Survey
+"Very bad,1",Q_5200,How was your day?,day,Evening_Survey
+"Very good,10",Q_5200,How was your day?,day,Evening_Survey
+"0,0",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"6+,6",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"0,0",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"6+,6",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"0,0",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"6+,6",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"0,0",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"6+,6",Q_5201,"For each of the beverages listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_caffeine,Evening_Survey
+"0,0",Q_5202,"For the beverage listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_alcohol,Evening_Survey
+"12+,12",Q_5202,"For the beverage listed below, indicate the total amount you have had today. <u>Use the unit amount specified in parentheses to estimate the total amount</u>:",beverages_alcohol,Evening_Survey
+"We could afford to eat enough of the kinds of food we want to eat,1",Q_5203,Which statement best describes the food situation in your <i>HOUSEHOLD</i> <u>in the past 24 hours</u>?,food_situation_household,Evening_Survey
+"We could afford to eat enough but not the kinds of food we want to eat,2",Q_5203,Which statement best describes the food situation in your <i>HOUSEHOLD</i> <u>in the past 24 hours</u>?,food_situation_household,Evening_Survey
+"We could not afford enough to eat,3",Q_5203,Which statement best describes the food situation in your <i>HOUSEHOLD</i> <u>in the past 24 hours</u>?,food_situation_household,Evening_Survey
+"I worried about my food running out,1",Q_5243,Did any of the following statements about food situations occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,food_situation_you,Evening_Survey
+"I did not eat balanced meals because there wasn't enough money for food,2",Q_5243,Did any of the following statements about food situations occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,food_situation_you,Evening_Survey
+"I cut the size of my meals or skipped meals because there wasn't enough money for food,3",Q_5243,Did any of the following statements about food situations occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,food_situation_you,Evening_Survey
+"I ate less than I felt I should because there wasn't enough money for food,4",Q_5243,Did any of the following statements about food situations occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,food_situation_you,Evening_Survey
+"I was hungry but didn't eat because there wasn't enough money for food,5",Q_5243,Did any of the following statements about food situations occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,food_situation_you,Evening_Survey
+"I did not eat for a whole day because there wasn't enough money for food,6",Q_5243,Did any of the following statements about food situations occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,food_situation_you,Evening_Survey
+"None of the above,7",Q_5243,Did any of the following statements about food situations occur to <i>YOU</i> <u>in the past 24 hours</u>? <i>Check all that apply.</i>,food_situation_you,Evening_Survey
+"No impact,1",Q_5286,How much of an impact did the stress have on your day?,stress_impact,Evening_Survey
+"Extreme impact,10",Q_5286,How much of an impact did the stress have on your day?,stress_impact,Evening_Survey
+"Not at all,1",Q_5298,"During the 5 minutes prior to the start of this survey, were you thinking about personal problems or worries?",deprecated,Evening_Survey
+"Extremely,10",Q_5298,"During the 5 minutes prior to the start of this survey, were you thinking about personal problems or worries?",deprecated,Evening_Survey
+"No Response,-1",Q_5307,"You should only be seeing this on Sunday, Monday, or Tuesday",deprecated,Evening_Survey
+"No Response,-1",Q_5447,<b>Please remember to complete your food records for today.</b> It is best to enter foods and beverages as soon as you consume them.,deprecated,Evening_Survey
+"No Response,-1",Q_5448,"To start data entry, tap the round fork and spoon icon on the study home screen. Make sure to include the time eaten, meal type, place prepared, food description, and amount. The completeness of your dietary information is very important to us. Thank you!",deprecated,Evening_Survey
+"Not at all,1",Q_5469,"During the 5 minutes prior to the start of this survey, were you thinking about personal problems or worries?",personal_worries,Evening_Survey
+"Extremely,10",Q_5469,"During the 5 minutes prior to the start of this survey, were you thinking about personal problems or worries?",personal_worries,Evening_Survey
+NA,Participant ID,Participant ID,Participant ID,Evening_Survey
+NA,Survey Date Completed,Survey Date Completed,Survey Date Completed,Evening_Survey
+NA,Survey Date Submitted,Survey Date Submitted,Survey Date Submitted,Evening_Survey
+NA,External ID,NA,NA,Evening_Survey
+NA,Alert Times,NA,NA,Evening_Survey
+NA,Model,NA,NA,Evening_Survey
+NA,OS,NA,NA,Evening_Survey

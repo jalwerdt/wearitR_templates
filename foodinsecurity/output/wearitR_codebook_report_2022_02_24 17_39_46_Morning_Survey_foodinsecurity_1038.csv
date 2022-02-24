@@ -1,0 +1,48 @@
+key,wearit_col_qnum,wearit_col_ques,wearit_col_label,filenames
+"0,0",Q_4974,How many hours of actual sleep did you get last night? I actually slept ______ hours.,sleep,Morning_Survey
+"24 hours,1440",Q_4974,How many hours of actual sleep did you get last night? I actually slept ______ hours.,sleep,Morning_Survey
+"0,0",Q_4975,How many hours were you in bed last night? I was in bed for _____ hours.,bed,Morning_Survey
+"24 hours,1440",Q_4975,How many hours were you in bed last night? I was in bed for _____ hours.,bed,Morning_Survey
+"Not at all (fell asleep within 15 minutes),1",Q_4976,Did you have trouble FALLING ASLEEP last night?,falling_asleep,Morning_Survey
+"Little (fell asleep in 16-30 minutes),2",Q_4976,Did you have trouble FALLING ASLEEP last night?,falling_asleep,Morning_Survey
+"Somewhat (fell asleep in 31-60 minutes),3",Q_4976,Did you have trouble FALLING ASLEEP last night?,falling_asleep,Morning_Survey
+"Very much (fell asleep in more than 60 minutes),4",Q_4976,Did you have trouble FALLING ASLEEP last night?,falling_asleep,Morning_Survey
+"Poorest,1",Q_4977,"How would you rate the quality of your sleep last night on a scale from 1-10, with 1 being the ""poorest"" and 10 being the ""best""? I would rate my sleep last night as __________.",sleep_quality,Morning_Survey
+"Best,10",Q_4977,"How would you rate the quality of your sleep last night on a scale from 1-10, with 1 being the ""poorest"" and 10 being the ""best""? I would rate my sleep last night as __________.",sleep_quality,Morning_Survey
+"Waking up in the middle of the night or early morning,1",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Getting up to use the bathroom,2",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Not breathing comfortably,3",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Coughing or snoring loudly (you),4",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Feeling too cold,5",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Feeling too hot,6",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Having bad dreams,7",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Having pain due to hunger,8",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Having other pain,9",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Having other physical symptoms,10",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Light,11",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Noise,12",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Your spouse/partner,13",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Your child(ren),14",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"Other (please specify),15",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"None of the above,16",Q_4978,Did any of the following interfere with your sleep last night? <i>Check all that apply.</i>,sleep_interference,Morning_Survey
+"sleep_interference_oth,-1",Q_4979,Please specify what else interfered with your sleep last night:,sleep_interference_other,Morning_Survey
+"Yes,1",Q_4980,"Did you take medicine (prescribed or ""over the counter"") to help you sleep last night?",sleep_meds,Morning_Survey
+"No,2",Q_4980,"Did you take medicine (prescribed or ""over the counter"") to help you sleep last night?",sleep_meds,Morning_Survey
+"Not at all enjoyable,1",Q_4981,"Overall, how ENJOYABLE do you expect today will be?",enjoyable,Morning_Survey
+"A little bit enjoyable,2",Q_4981,"Overall, how ENJOYABLE do you expect today will be?",enjoyable,Morning_Survey
+"Somewhat enjoyable,3",Q_4981,"Overall, how ENJOYABLE do you expect today will be?",enjoyable,Morning_Survey
+"Very much enjoyable,4",Q_4981,"Overall, how ENJOYABLE do you expect today will be?",enjoyable,Morning_Survey
+"Not at all stressful,1",Q_4982,"Overall, how STRESSFUL do you expect today will be?",stressful,Morning_Survey
+"A little bit stressful,2",Q_4982,"Overall, how STRESSFUL do you expect today will be?",stressful,Morning_Survey
+"Somewhat stressful,3",Q_4982,"Overall, how STRESSFUL do you expect today will be?",stressful,Morning_Survey
+"Very much stressful,4",Q_4982,"Overall, how STRESSFUL do you expect today will be?",stressful,Morning_Survey
+"No Response,-1",Q_5306,"You should only be seeing this on Sunday, Monday, or Tuesday",deprecated,Morning_Survey
+"No Response,-1",Q_5445,<b>Please remember to complete your food records for today.</b> It is best to enter foods and beverages as soon as you consume them.,deprecated,Morning_Survey
+"No Response,-1",Q_5446,"To start data entry, tap the round fork and spoon icon on the study home screen. Make sure to include the time eaten, meal type, place prepared, food description, and amount. The completeness of your dietary information is very important to us. Thank you!",deprecated,Morning_Survey
+NA,Participant ID,Participant ID,Participant ID,Morning_Survey
+NA,Survey Date Completed,Survey Date Completed,Survey Date Completed,Morning_Survey
+NA,Survey Date Submitted,Survey Date Submitted,Survey Date Submitted,Morning_Survey
+NA,External ID,NA,NA,Morning_Survey
+NA,Alert Times,NA,NA,Morning_Survey
+NA,Model,NA,NA,Morning_Survey
+NA,OS,NA,NA,Morning_Survey

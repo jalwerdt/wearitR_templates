@@ -1,0 +1,258 @@
+key,wearit_col_qnum,wearit_col_ques,wearit_col_label,filenames
+"No Response,-1",Q_5123,"There are several statements that people have made about their food situation. For these statements, please choose <b>ONE</b> option to identify how often the following occurred in <b>your household</b> in the <b><u>LAST 30 DAYS</u></b>.",deprecated,Monthly_Survey
+"Never true,1",Q_5124,"In the <b>PAST four weeks</b>, we worried whether our food would run out before we got money to buy more.",food_run_out,Monthly_Survey
+"Sometimes true,2",Q_5124,"In the <b>PAST four weeks</b>, we worried whether our food would run out before we got money to buy more.",food_run_out,Monthly_Survey
+"Often true,3",Q_5124,"In the <b>PAST four weeks</b>, we worried whether our food would run out before we got money to buy more.",food_run_out,Monthly_Survey
+"Don't know,4",Q_5124,"In the <b>PAST four weeks</b>, we worried whether our food would run out before we got money to buy more.",food_run_out,Monthly_Survey
+"Never true,1",Q_5125,"In the <b>PAST four weeks</b>, the food that we bought just didn't last, and we didn't have money to get more.",food_did_not_last,Monthly_Survey
+"Sometimes true,2",Q_5125,"In the <b>PAST four weeks</b>, the food that we bought just didn't last, and we didn't have money to get more.",food_did_not_last,Monthly_Survey
+"Often true,3",Q_5125,"In the <b>PAST four weeks</b>, the food that we bought just didn't last, and we didn't have money to get more.",food_did_not_last,Monthly_Survey
+"Don't know,4",Q_5125,"In the <b>PAST four weeks</b>, the food that we bought just didn't last, and we didn't have money to get more.",food_did_not_last,Monthly_Survey
+"Never true,1",Q_5126,"In the <b>PAST four weeks</b>, we couldn't afford to eat balanced meals. <i>(By balanced meal, I mean a meal that includes all the types of food that you think should be in a healthy meal. For example, a starch like potatoes or rice, vegetables or fruit and some protein like meat, fish, cheese or eggs).</i>",balanced_meals,Monthly_Survey
+"Sometimes true,2",Q_5126,"In the <b>PAST four weeks</b>, we couldn't afford to eat balanced meals. <i>(By balanced meal, I mean a meal that includes all the types of food that you think should be in a healthy meal. For example, a starch like potatoes or rice, vegetables or fruit and some protein like meat, fish, cheese or eggs).</i>",balanced_meals,Monthly_Survey
+"Often true,3",Q_5126,"In the <b>PAST four weeks</b>, we couldn't afford to eat balanced meals. <i>(By balanced meal, I mean a meal that includes all the types of food that you think should be in a healthy meal. For example, a starch like potatoes or rice, vegetables or fruit and some protein like meat, fish, cheese or eggs).</i>",balanced_meals,Monthly_Survey
+"Don't know,4",Q_5126,"In the <b>PAST four weeks</b>, we couldn't afford to eat balanced meals. <i>(By balanced meal, I mean a meal that includes all the types of food that you think should be in a healthy meal. For example, a starch like potatoes or rice, vegetables or fruit and some protein like meat, fish, cheese or eggs).</i>",balanced_meals,Monthly_Survey
+"No Response,-1",Q_5147,Next please tell us whether or not the following food situations occurred to <u>you</u> in the <b>LAST 30 DAYS</b>:,deprecated,Monthly_Survey
+"No,1",Q_5148,Did you ever <b>cut the size of your meals</b> or skip meals because there wasn't enough money for food?,skip_meals,Monthly_Survey
+"Yes,2",Q_5148,Did you ever <b>cut the size of your meals</b> or skip meals because there wasn't enough money for food?,skip_meals,Monthly_Survey
+"1,1",Q_5149,How many days did this happen?,skip_meals_days,Monthly_Survey
+"30,30",Q_5149,How many days did this happen?,skip_meals_days,Monthly_Survey
+"No,1",Q_5150,Did you ever <b>eat less</b> than you felt you should because there wasn't enough money for food?,eat_less,Monthly_Survey
+"Yes,2",Q_5150,Did you ever <b>eat less</b> than you felt you should because there wasn't enough money for food?,eat_less,Monthly_Survey
+"1,1",Q_5151,How many days did this happen?,eat_less_days,Monthly_Survey
+"30,30",Q_5151,How many days did this happen?,eat_less_days,Monthly_Survey
+"No,1",Q_5152,Were you <b>ever hungry</b> but didn't eat because there wasn't enough money for food?,hungry,Monthly_Survey
+"Yes,2",Q_5152,Were you <b>ever hungry</b> but didn't eat because there wasn't enough money for food?,hungry,Monthly_Survey
+"1,1",Q_5153,How many days did this happen?,hungry_days,Monthly_Survey
+"30,30",Q_5153,How many days did this happen?,hungry_days,Monthly_Survey
+"No,1",Q_5154,Did you <b>lose weight</b> because there wasn't enough money for food?,lose_weight,Monthly_Survey
+"Yes,2",Q_5154,Did you <b>lose weight</b> because there wasn't enough money for food?,lose_weight,Monthly_Survey
+"1,1",Q_5155,How many days did this happen?,lose_weight_days,Monthly_Survey
+"30,30",Q_5155,How many days did this happen?,lose_weight_days,Monthly_Survey
+"No,1",Q_5156,Did you ever <b>not eat for a whole day</b> because there wasn't enough money for food?,not_eat,Monthly_Survey
+"Yes,2",Q_5156,Did you ever <b>not eat for a whole day</b> because there wasn't enough money for food?,not_eat,Monthly_Survey
+"1,1",Q_5157,How many days did this happen?,not_eat_days,Monthly_Survey
+"30,30",Q_5157,How many days did this happen?,not_eat_days,Monthly_Survey
+"No Response,-1",Q_5158,end food situation block,deprecated,Monthly_Survey
+"No Response,-1",Q_5205,Next please tell us whether or not the following food situations occurred to <u>you</u> in the <b><u>LAST 30 DAYS</u></b>:,deprecated,Monthly_Survey
+"No Response,-1",Q_5206,"Next, we would like to know if you have used any of the following strategies <b><u>IN THE PAST 30 DAYS.</u></b> Then, if your household has challenges affording food, we would like you to consider the likelihood of using these strategies in the future.",deprecated,Monthly_Survey
+"No Response,-1",Q_5207,"Please answer the following questions about how you plan meals and buy foods for your family.<br><br>As you read each questions, think about the <b>PAST 30 DAYS.</b>",deprecated,Monthly_Survey
+"Never,1",Q_5208,"In the <b>PAST 30 DAYS</b>, how often did you <b>compare prices</b> before buying food?",compare_prices,Monthly_Survey
+"Rarely,2",Q_5208,"In the <b>PAST 30 DAYS</b>, how often did you <b>compare prices</b> before buying food?",compare_prices,Monthly_Survey
+"Sometimes,3",Q_5208,"In the <b>PAST 30 DAYS</b>, how often did you <b>compare prices</b> before buying food?",compare_prices,Monthly_Survey
+"Usually,4",Q_5208,"In the <b>PAST 30 DAYS</b>, how often did you <b>compare prices</b> before buying food?",compare_prices,Monthly_Survey
+"Always,5",Q_5208,"In the <b>PAST 30 DAYS</b>, how often did you <b>compare prices</b> before buying food?",compare_prices,Monthly_Survey
+"Never,1",Q_5209,"In the <b>PAST 30 DAYS</b>, how often did you <b>plan meals</b> before shopping for groceries?",plan_meals,Monthly_Survey
+"Rarely,2",Q_5209,"In the <b>PAST 30 DAYS</b>, how often did you <b>plan meals</b> before shopping for groceries?",plan_meals,Monthly_Survey
+"Sometimes,3",Q_5209,"In the <b>PAST 30 DAYS</b>, how often did you <b>plan meals</b> before shopping for groceries?",plan_meals,Monthly_Survey
+"Usually,4",Q_5209,"In the <b>PAST 30 DAYS</b>, how often did you <b>plan meals</b> before shopping for groceries?",plan_meals,Monthly_Survey
+"Always,5",Q_5209,"In the <b>PAST 30 DAYS</b>, how often did you <b>plan meals</b> before shopping for groceries?",plan_meals,Monthly_Survey
+"Never,1",Q_5210,"In the <b>PAST 30 DAYS</b>, how often did you <b>use a shopping list</b> when grocery shopping?",shopping_list,Monthly_Survey
+"Rarely,2",Q_5210,"In the <b>PAST 30 DAYS</b>, how often did you <b>use a shopping list</b> when grocery shopping?",shopping_list,Monthly_Survey
+"Sometimes,3",Q_5210,"In the <b>PAST 30 DAYS</b>, how often did you <b>use a shopping list</b> when grocery shopping?",shopping_list,Monthly_Survey
+"Usually,4",Q_5210,"In the <b>PAST 30 DAYS</b>, how often did you <b>use a shopping list</b> when grocery shopping?",shopping_list,Monthly_Survey
+"Always,5",Q_5210,"In the <b>PAST 30 DAYS</b>, how often did you <b>use a shopping list</b> when grocery shopping?",shopping_list,Monthly_Survey
+"Never,1",Q_5211,"In the <b>PAST 30 DAYS</b>, how often did you <b>check food on hand</b> before making a shopping list?",check_food,Monthly_Survey
+"Rarely,2",Q_5211,"In the <b>PAST 30 DAYS</b>, how often did you <b>check food on hand</b> before making a shopping list?",check_food,Monthly_Survey
+"Sometimes,3",Q_5211,"In the <b>PAST 30 DAYS</b>, how often did you <b>check food on hand</b> before making a shopping list?",check_food,Monthly_Survey
+"Usually,4",Q_5211,"In the <b>PAST 30 DAYS</b>, how often did you <b>check food on hand</b> before making a shopping list?",check_food,Monthly_Survey
+"Always,5",Q_5211,"In the <b>PAST 30 DAYS</b>, how often did you <b>check food on hand</b> before making a shopping list?",check_food,Monthly_Survey
+"Never,1",Q_5212,"In the <b>PAST 30 DAYS</b>, how often did you use <b>grocery store flyers</b> to plan meals?",grocery_store_flyers,Monthly_Survey
+"Rarely,2",Q_5212,"In the <b>PAST 30 DAYS</b>, how often did you use <b>grocery store flyers</b> to plan meals?",grocery_store_flyers,Monthly_Survey
+"Sometimes,3",Q_5212,"In the <b>PAST 30 DAYS</b>, how often did you use <b>grocery store flyers</b> to plan meals?",grocery_store_flyers,Monthly_Survey
+"Usually,4",Q_5212,"In the <b>PAST 30 DAYS</b>, how often did you use <b>grocery store flyers</b> to plan meals?",grocery_store_flyers,Monthly_Survey
+"Always,5",Q_5212,"In the <b>PAST 30 DAYS</b>, how often did you use <b>grocery store flyers</b> to plan meals?",grocery_store_flyers,Monthly_Survey
+"Never,1",Q_5213,"In the <b>PAST 30 DAYS</b>, how often did you <b>identify foods on sale or use coupons</b> to save money?",coupons,Monthly_Survey
+"Rarely,2",Q_5213,"In the <b>PAST 30 DAYS</b>, how often did you <b>identify foods on sale or use coupons</b> to save money?",coupons,Monthly_Survey
+"Sometimes,3",Q_5213,"In the <b>PAST 30 DAYS</b>, how often did you <b>identify foods on sale or use coupons</b> to save money?",coupons,Monthly_Survey
+"Usually,4",Q_5213,"In the <b>PAST 30 DAYS</b>, how often did you <b>identify foods on sale or use coupons</b> to save money?",coupons,Monthly_Survey
+"Always,5",Q_5213,"In the <b>PAST 30 DAYS</b>, how often did you <b>identify foods on sale or use coupons</b> to save money?",coupons,Monthly_Survey
+"0,0",Q_5214,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5214,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5214,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5214,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5215,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5215,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5215,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5215,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5216,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5216,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5216,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5216,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5217,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down (including night-time, naps, reclining):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5217,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down (including night-time, naps, reclining):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5217,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down (including night-time, naps, reclining):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5217,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down (including night-time, naps, reclining):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5218,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity (eating, reading, watching TV, listening to the radio, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5218,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity (eating, reading, watching TV, listening to the radio, etc.):</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5218,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity (eating, reading, watching TV, listening to the radio, etc.):</u></b>",deprecated,Monthly_Survey
+"24,24",Q_5218,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity (eating, reading, watching TV, listening to the radio, etc.):</u></b>",deprecated,Monthly_Survey
+"No Response,-1",Q_5219,"Choose YES or NO for the following questions that ask about your feelings and thoughts during <b>THE PAST WEEK</b>. Although some of the questions are similar, there are small differences between them and you should treat each one as a separate question.",deprecated,Monthly_Survey
+"No Response,-1",Q_5220,"The best approach is to answer fairly quickly. That is, don't try to count up the exact number of times you felt a particular way, but choose the answer that in general seems the best.",deprecated,Monthly_Survey
+"Yes,1",Q_5221,Are you basically satisfied with your life?,satisfied_life,Monthly_Survey
+"No,2",Q_5221,Are you basically satisfied with your life?,satisfied_life,Monthly_Survey
+"Yes,1",Q_5222,Have you dropped many of your activities and interests?,dropped_interests,Monthly_Survey
+"No,2",Q_5222,Have you dropped many of your activities and interests?,dropped_interests,Monthly_Survey
+"Yes,1",Q_5223,Do you feel that your life is empty?,life_empty,Monthly_Survey
+"No,2",Q_5223,Do you feel that your life is empty?,life_empty,Monthly_Survey
+"Yes,1",Q_5224,Do you often get bored?,bored,Monthly_Survey
+"No,2",Q_5224,Do you often get bored?,bored,Monthly_Survey
+"Yes,1",Q_5225,Are you in good spirits most of the time?,good_spirits,Monthly_Survey
+"No,2",Q_5225,Are you in good spirits most of the time?,good_spirits,Monthly_Survey
+"Yes,1",Q_5226,Are you afraid that something bad is going to happen to you?,something_bad_happen,Monthly_Survey
+"No,2",Q_5226,Are you afraid that something bad is going to happen to you?,something_bad_happen,Monthly_Survey
+"Yes,1",Q_5227,Do you feel happy most of the time?,mostly_happy,Monthly_Survey
+"No,2",Q_5227,Do you feel happy most of the time?,mostly_happy,Monthly_Survey
+"Yes,1",Q_5228,Do you often feel helpless?,helpless,Monthly_Survey
+"No,2",Q_5228,Do you often feel helpless?,helpless,Monthly_Survey
+"Yes,1",Q_5229,"Do you prefer to stay at home, rather than going out and doing things?",stay_at_home,Monthly_Survey
+"No,2",Q_5229,"Do you prefer to stay at home, rather than going out and doing things?",stay_at_home,Monthly_Survey
+"Yes,1",Q_5230,Do you feel that you have more problems with memory than most?,memory_problems,Monthly_Survey
+"No,2",Q_5230,Do you feel that you have more problems with memory than most?,memory_problems,Monthly_Survey
+"Yes,1",Q_5231,Do you think it is wonderful to be alive now?,alive_wonderful,Monthly_Survey
+"No,2",Q_5231,Do you think it is wonderful to be alive now?,alive_wonderful,Monthly_Survey
+"Yes,1",Q_5232,Do you feel worthless the way you are now?,worthless,Monthly_Survey
+"No,2",Q_5232,Do you feel worthless the way you are now?,worthless,Monthly_Survey
+"Yes,1",Q_5233,Do you feel full of energy?,full_of_energy,Monthly_Survey
+"No,2",Q_5233,Do you feel full of energy?,full_of_energy,Monthly_Survey
+"Yes,1",Q_5234,Do you feel that your situation is hopeless?,hopeless,Monthly_Survey
+"No,2",Q_5234,Do you feel that your situation is hopeless?,hopeless,Monthly_Survey
+"Yes,1",Q_5235,Do you think that most people are better off than you are?,people_better_off,Monthly_Survey
+"No,2",Q_5235,Do you think that most people are better off than you are?,people_better_off,Monthly_Survey
+"No Response,-1",Q_5236,Next please tell us whether or not the following food situations occurred to <u>you</u> in the <b><u>LAST 30 DAYS.</u></b>,deprecated,Monthly_Survey
+"No Response,-1",Q_5237,"Please answer the following questions about how you plan meals and buy foods for your family.<br><br>As you read each question, think about the <b><u>PAST 30 DAYS.</u></b>",deprecated,Monthly_Survey
+"0,0",Q_5238,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5238,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",deprecated,Monthly_Survey
+"0,0",Q_5238,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5238,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",deprecated,Monthly_Survey
+"0,0",Q_5239,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5239,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",deprecated,Monthly_Survey
+"0,0",Q_5239,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5239,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",deprecated,Monthly_Survey
+"0,0",Q_5240,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5240,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",deprecated,Monthly_Survey
+"0,0",Q_5240,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5240,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",deprecated,Monthly_Survey
+"0,0",Q_5241,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",deprecated,Monthly_Survey
+"24,24",Q_5241,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",deprecated,Monthly_Survey
+"0,0",Q_5241,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",deprecated,Monthly_Survey
+"24,24",Q_5241,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",deprecated,Monthly_Survey
+"0,0",Q_5242,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5242,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",deprecated,Monthly_Survey
+"0,0",Q_5242,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",deprecated,Monthly_Survey
+"24,24",Q_5242,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",deprecated,Monthly_Survey
+"Accept food from friends or family,1",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Borrow money from friends and family,2",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Buy different, cheaper foods,3",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Buy food on credit,4",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods),5",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Get food from a <b>food pantry</b> or <b>soup kitchen</b>,6",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Sign up for or continue participation in a <b>government program</b>, such as SNAP, USDA’s monthly commodity supplemental food program,7",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Sign up for or continue participation in a <b>senior food program</b>, such as senior food box program,8",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Stretch the food that I have by eating less,9",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"None of the above,10",Q_5266,"IN THE PAST 30 DAYS, have you used any of the following strategies?",deprecated,Monthly_Survey
+"Very unlikely,1",Q_5267,"IN THE FUTURE, what is the likelihood that you would <b>accept food from friends or family</b>?",accept_food,Monthly_Survey
+"Unlikely,2",Q_5267,"IN THE FUTURE, what is the likelihood that you would <b>accept food from friends or family</b>?",accept_food,Monthly_Survey
+"Somewhat unlikely,3",Q_5267,"IN THE FUTURE, what is the likelihood that you would <b>accept food from friends or family</b>?",accept_food,Monthly_Survey
+"Somewhat likely,4",Q_5267,"IN THE FUTURE, what is the likelihood that you would <b>accept food from friends or family</b>?",accept_food,Monthly_Survey
+"Likely,5",Q_5267,"IN THE FUTURE, what is the likelihood that you would <b>accept food from friends or family</b>?",accept_food,Monthly_Survey
+"Very likely,6",Q_5267,"IN THE FUTURE, what is the likelihood that you would <b>accept food from friends or family</b>?",accept_food,Monthly_Survey
+"Very unlikely,1",Q_5268,"IN THE FUTURE, what is the likelihood that you would <b>borrow money from friends and family</b>?",borrow_money,Monthly_Survey
+"Unlikely,2",Q_5268,"IN THE FUTURE, what is the likelihood that you would <b>borrow money from friends and family</b>?",borrow_money,Monthly_Survey
+"Somewhat unlikely,3",Q_5268,"IN THE FUTURE, what is the likelihood that you would <b>borrow money from friends and family</b>?",borrow_money,Monthly_Survey
+"Somewhat likely,4",Q_5268,"IN THE FUTURE, what is the likelihood that you would <b>borrow money from friends and family</b>?",borrow_money,Monthly_Survey
+"Likely,5",Q_5268,"IN THE FUTURE, what is the likelihood that you would <b>borrow money from friends and family</b>?",borrow_money,Monthly_Survey
+"Very likely,6",Q_5268,"IN THE FUTURE, what is the likelihood that you would <b>borrow money from friends and family</b>?",borrow_money,Monthly_Survey
+"Very unlikely,1",Q_5269,"IN THE FUTURE, what is the likelihood that you would <b>buy different, cheaper foods</b>?",buy_cheaper_food,Monthly_Survey
+"Unlikely,2",Q_5269,"IN THE FUTURE, what is the likelihood that you would <b>buy different, cheaper foods</b>?",buy_cheaper_food,Monthly_Survey
+"Somewhat unlikely,3",Q_5269,"IN THE FUTURE, what is the likelihood that you would <b>buy different, cheaper foods</b>?",buy_cheaper_food,Monthly_Survey
+"Somewhat likely,4",Q_5269,"IN THE FUTURE, what is the likelihood that you would <b>buy different, cheaper foods</b>?",buy_cheaper_food,Monthly_Survey
+"Likely,5",Q_5269,"IN THE FUTURE, what is the likelihood that you would <b>buy different, cheaper foods</b>?",buy_cheaper_food,Monthly_Survey
+"Very likely,6",Q_5269,"IN THE FUTURE, what is the likelihood that you would <b>buy different, cheaper foods</b>?",buy_cheaper_food,Monthly_Survey
+"Very unlikely,1",Q_5270,"IN THE FUTURE, what is the likelihood that you would <b>buy food on credit</b>?",buy_food_credit,Monthly_Survey
+"Unlikely,2",Q_5270,"IN THE FUTURE, what is the likelihood that you would <b>buy food on credit</b>?",buy_food_credit,Monthly_Survey
+"Somewhat unlikely,3",Q_5270,"IN THE FUTURE, what is the likelihood that you would <b>buy food on credit</b>?",buy_food_credit,Monthly_Survey
+"Somewhat likely,4",Q_5270,"IN THE FUTURE, what is the likelihood that you would <b>buy food on credit</b>?",buy_food_credit,Monthly_Survey
+"Likely,5",Q_5270,"IN THE FUTURE, what is the likelihood that you would <b>buy food on credit</b>?",buy_food_credit,Monthly_Survey
+"Very likely,6",Q_5270,"IN THE FUTURE, what is the likelihood that you would <b>buy food on credit</b>?",buy_food_credit,Monthly_Survey
+"Very unlikely,1",Q_5271,"IN THE FUTURE, what is the likelihood that you would <b>buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)</b>?",food_does_not_go_bad,Monthly_Survey
+"Unlikely,2",Q_5271,"IN THE FUTURE, what is the likelihood that you would <b>buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)</b>?",food_does_not_go_bad,Monthly_Survey
+"Somewhat unlikely,3",Q_5271,"IN THE FUTURE, what is the likelihood that you would <b>buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)</b>?",food_does_not_go_bad,Monthly_Survey
+"Somewhat likely,4",Q_5271,"IN THE FUTURE, what is the likelihood that you would <b>buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)</b>?",food_does_not_go_bad,Monthly_Survey
+"Likely,5",Q_5271,"IN THE FUTURE, what is the likelihood that you would <b>buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)</b>?",food_does_not_go_bad,Monthly_Survey
+"Very likely,6",Q_5271,"IN THE FUTURE, what is the likelihood that you would <b>buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods)</b>?",food_does_not_go_bad,Monthly_Survey
+"Very unlikely,1",Q_5272,"IN THE FUTURE, what is the likelihood that you would <b>get food from a <u>food pantry</u> or <u>soup kitchen</u></b>?",food_pantry,Monthly_Survey
+"Unlikely,2",Q_5272,"IN THE FUTURE, what is the likelihood that you would <b>get food from a <u>food pantry</u> or <u>soup kitchen</u></b>?",food_pantry,Monthly_Survey
+"Somewhat unlikely,3",Q_5272,"IN THE FUTURE, what is the likelihood that you would <b>get food from a <u>food pantry</u> or <u>soup kitchen</u></b>?",food_pantry,Monthly_Survey
+"Somewhat likely,4",Q_5272,"IN THE FUTURE, what is the likelihood that you would <b>get food from a <u>food pantry</u> or <u>soup kitchen</u></b>?",food_pantry,Monthly_Survey
+"Likely,5",Q_5272,"IN THE FUTURE, what is the likelihood that you would <b>get food from a <u>food pantry</u> or <u>soup kitchen</u></b>?",food_pantry,Monthly_Survey
+"Very likely,6",Q_5272,"IN THE FUTURE, what is the likelihood that you would <b>get food from a <u>food pantry</u> or <u>soup kitchen</u></b>?",food_pantry,Monthly_Survey
+"Very unlikely,1",Q_5273,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program </b>?",deprecated,Monthly_Survey
+"Unlikely,2",Q_5273,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program </b>?",deprecated,Monthly_Survey
+"Somewhat unlikely,3",Q_5273,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program </b>?",deprecated,Monthly_Survey
+"Somewhat likely,4",Q_5273,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program </b>?",deprecated,Monthly_Survey
+"Likely,5",Q_5273,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program </b>?",deprecated,Monthly_Survey
+"Very likely,6",Q_5273,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program </b>?",deprecated,Monthly_Survey
+"Very unlikely,1",Q_5274,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>senior food program</u>, such as senior food box program</b>?",senior_food_program,Monthly_Survey
+"Unlikely,2",Q_5274,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>senior food program</u>, such as senior food box program</b>?",senior_food_program,Monthly_Survey
+"Somewhat unlikely,3",Q_5274,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>senior food program</u>, such as senior food box program</b>?",senior_food_program,Monthly_Survey
+"Somewhat likely,4",Q_5274,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>senior food program</u>, such as senior food box program</b>?",senior_food_program,Monthly_Survey
+"Likely,5",Q_5274,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>senior food program</u>, such as senior food box program</b>?",senior_food_program,Monthly_Survey
+"Very likely,6",Q_5274,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>senior food program</u>, such as senior food box program</b>?",senior_food_program,Monthly_Survey
+"Very unlikely,1",Q_5275,"IN THE FUTURE, what is the likelihood that you would <b>stretch the food that you have by eating less</b>?",stretch_food,Monthly_Survey
+"Unlikely,2",Q_5275,"IN THE FUTURE, what is the likelihood that you would <b>stretch the food that you have by eating less</b>?",stretch_food,Monthly_Survey
+"Somewhat unlikely,3",Q_5275,"IN THE FUTURE, what is the likelihood that you would <b>stretch the food that you have by eating less</b>?",stretch_food,Monthly_Survey
+"Somewhat likely,4",Q_5275,"IN THE FUTURE, what is the likelihood that you would <b>stretch the food that you have by eating less</b>?",stretch_food,Monthly_Survey
+"Likely,5",Q_5275,"IN THE FUTURE, what is the likelihood that you would <b>stretch the food that you have by eating less</b>?",stretch_food,Monthly_Survey
+"Very likely,6",Q_5275,"IN THE FUTURE, what is the likelihood that you would <b>stretch the food that you have by eating less</b>?",stretch_food,Monthly_Survey
+"0,0",Q_5276,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",vigorous_activity_weekday,Monthly_Survey
+"24,24",Q_5276,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",vigorous_activity_weekday,Monthly_Survey
+"0,0",Q_5277,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",vigorous_activity_weekend,Monthly_Survey
+"24,24",Q_5277,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>vigorous activity</u> (brisk walking, digging in the garden, strenuous sports, jogging, sustained swimming, chopping wood, heavy carpentry, bicycling on hills, etc.):</b>",vigorous_activity_weekend,Monthly_Survey
+"0,0",Q_5278,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",moderate_activity_weekday,Monthly_Survey
+"24,24",Q_5278,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",moderate_activity_weekday,Monthly_Survey
+"0,0",Q_5279,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",moderate_activity_weekend,Monthly_Survey
+"24,24",Q_5279,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>moderate activity</u> (heavy housework, light sports, regular walking, dancing, yard work, painting, repairing, light carpentry, bicycling on level ground, etc.):</b>",moderate_activity_weekend,Monthly_Survey
+"0,0",Q_5280,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",light_activity_weekday,Monthly_Survey
+"24,24",Q_5280,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",light_activity_weekday,Monthly_Survey
+"0,0",Q_5281,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",light_activity_weekend,Monthly_Survey
+"24,24",Q_5281,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>light activity</u> (office work, light housework, driving a car, strolling, personal care, standing with little motion, etc.):</b>",light_activity_weekend,Monthly_Survey
+"0,0",Q_5282,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",sleeping_weekday,Monthly_Survey
+"24,24",Q_5282,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",sleeping_weekday,Monthly_Survey
+"0,0",Q_5283,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",sleeping_weekend,Monthly_Survey
+"24,24",Q_5283,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend <b><u>sleeping and lying down</u> (including night-time, naps, reclining):</b>",sleeping_weekend,Monthly_Survey
+"0,0",Q_5284,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",sitting_weekday,Monthly_Survey
+"24,24",Q_5284,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",sitting_weekday,Monthly_Survey
+"0,0",Q_5285,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",sitting_weekend,Monthly_Survey
+"24,24",Q_5285,"During the PAST 7 DAYS, on a usual DAY, how many hours did you spend doing <b><u>sitting activity</u> (eating, reading, watching TV, listening to the radio, etc.):</b>",sitting_weekend,Monthly_Survey
+"Accept food from friends or family,1",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Borrow money from friends and family,2",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Buy different, cheaper foods,3",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Buy food on credit,4",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Buy foods that don't go bad quickly (e.g., pasta, beans, rice, canned foods),5",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Get food from a food pantry or soup kitchen,6",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Sign up for or continue participation in a government program, such as SNAP, USDA’s monthly commodity supplemental food program,7",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Sign up for or continue participation in a senior food program, such as senior food box program,8",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Stretch the food that I have by eating less,9",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"None of the above,10",Q_5287,"IN THE PAST 30 DAYS, have you used any of the following strategies?",food_strategies,Monthly_Survey
+"Very unlikely,1",Q_5288,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program</b>?",deprecated,Monthly_Survey
+"Unlikely,2",Q_5288,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program</b>?",deprecated,Monthly_Survey
+"Somewhat unlikely,3",Q_5288,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program</b>?",deprecated,Monthly_Survey
+"Somewhat likely,4",Q_5288,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program</b>?",deprecated,Monthly_Survey
+"Likely,5",Q_5288,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program</b>?",deprecated,Monthly_Survey
+"Very likely,6",Q_5288,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA’s monthly commodity supplemental food program</b>?",deprecated,Monthly_Survey
+"Very unlikely,1",Q_5289,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA's monthly commodity supplemental food program</b>?",government_program,Monthly_Survey
+"Unlikely,2",Q_5289,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA's monthly commodity supplemental food program</b>?",government_program,Monthly_Survey
+"Somewhat unlikely,3",Q_5289,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA's monthly commodity supplemental food program</b>?",government_program,Monthly_Survey
+"Somewhat likely,4",Q_5289,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA's monthly commodity supplemental food program</b>?",government_program,Monthly_Survey
+"Likely,5",Q_5289,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA's monthly commodity supplemental food program</b>?",government_program,Monthly_Survey
+"Very likely,6",Q_5289,"IN THE FUTURE, what is the likelihood that you would <b>sign up for or continue participation in a <u>government program</u>, such as SNAP, USDA's monthly commodity supplemental food program</b>?",government_program,Monthly_Survey
+"No Response,-1",Q_5291,"There are several statements that people have made about their food situation. For these statements, please choose <b>ONE</b> option to identify how often the following occurred in <b><i>your household</i></b> in the <b><u>LAST 30 DAYS</u></b>.",deprecated,Monthly_Survey
+"No Response,-1",Q_5292,Next please tell us whether or not the following food situations occurred to <u><b>you</b></u> in the <b><u>LAST 30 DAYS.</u></b>,deprecated,Monthly_Survey
+NA,Participant ID,Participant ID,Participant ID,Monthly_Survey
+NA,Survey Date Completed,Survey Date Completed,Survey Date Completed,Monthly_Survey
+NA,Survey Date Submitted,Survey Date Submitted,Survey Date Submitted,Monthly_Survey
+NA,External ID,NA,NA,Monthly_Survey
+NA,Alert Times,NA,NA,Monthly_Survey
+NA,Model,NA,NA,Monthly_Survey
+NA,OS,NA,NA,Monthly_Survey
